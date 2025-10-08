@@ -1,3 +1,3 @@
 # my-activity
 
-Edited by Your Kaye Angeline for merge demo
+Edited by Your Kaye for merge demo
